@@ -118,6 +118,41 @@
       "value": "12px",
       "type": "fontSizes",
       "description": "0.75rem"
+    },
+    "01": {
+      "value": "14px",
+      "type": "fontSizes",
+      "description": "0.875rem"
+    },
+    "02": {
+      "value": "16px",
+      "type": "fontSizes",
+      "description": "1rem"
+    },
+    "03": {
+      "value": "20px",
+      "type": "fontSizes",
+      "description": "1.25rem"
+    },
+    "04": {
+      "value": "28px",
+      "type": "fontSizes",
+      "description": "1.75rem"
+    },
+    "05": {
+      "value": "32px",
+      "type": "fontSizes",
+      "description": "2rem"
+    },
+    "06": {
+      "value": "42px",
+      "type": "fontSizes",
+      "description": "2.625rem"
+    },
+    "07": {
+      "value": "64px",
+      "type": "fontSizes",
+      "description": "3.375rem"
     }
   }
 }
