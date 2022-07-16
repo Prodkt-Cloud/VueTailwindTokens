@@ -187,5 +187,69 @@
       "type": "fontSizes",
       "description": "5.75rem"
     }
+  },
+  "text-case": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    },
+    "lowercase": {
+      "value": "lowercase",
+      "type": "textCase"
+    },
+    "capitalize": {
+      "value": "capitalize",
+      "type": "textCase"
+    },
+    "small-caps": {
+      "value": "small-caps",
+      "type": "textCase"
+    },
+    "full-width": {
+      "value": "full-width",
+      "type": "textCase"
+    },
+    "full-size-kana": {
+      "value": "full-size-kana",
+      "type": "textCase"
+    }
+  },
+  "text-decoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "inherit": {
+      "value": "inherit",
+      "type": "textDecoration"
+    },
+    "initial": {
+      "value": "initial",
+      "type": "textDecoration"
+    },
+    "revert": {
+      "value": "revert",
+      "type": "textDecoration"
+    },
+    "revert-layer": {
+      "value": "revert-layer",
+      "type": "textDecoration"
+    },
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    },
+    "underline-dotted": {
+      "value": "underline dotted",
+      "type": "textDecoration"
+    },
+    "unset": {
+      "value": "unset",
+      "type": "textDecoration"
+    }
   }
 }

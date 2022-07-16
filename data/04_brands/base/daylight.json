@@ -1,1 +1,14 @@
-{}
+{
+  "color": {
+    "link": {
+      "primary": {
+        "value": "{color.blue.600}",
+        "type": "color"
+      },
+      "primary-copy": {
+        "value": "{color.blue.600}",
+        "type": "color"
+      }
+    }
+  }
+}
