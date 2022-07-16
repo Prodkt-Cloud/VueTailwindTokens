@@ -62,5 +62,19 @@
       "value": "0.32",
       "type": "letterSpacing"
     }
+  },
+  "color": {
+    "base-white": {
+      "value": "hsl(0, 0%, 100%, 1)",
+      "type": "color"
+    },
+    "base-white-copy": {
+      "value": "hsl(0, 0%, 0%, 1)",
+      "type": "color"
+    },
+    "transparent": {
+      "value": "rgba(255,255,255,0)",
+      "type": "color"
+    }
   }
 }
