@@ -32,5 +32,71 @@
       "value": "ExtraBold",
       "type": "fontWeights"
     }
+  },
+  "font-style": {
+    "normal": {
+      "value": "normal",
+      "type": "other"
+    },
+    "italic": {
+      "value": "italic",
+      "type": "other"
+    }
+  },
+  "line-height": {
+    "10": {
+      "value": "64",
+      "type": "lineHeights",
+      "description": "4rem"
+    },
+    "00": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "01": {
+      "value": "16",
+      "type": "lineHeights",
+      "description": "1rem"
+    },
+    "02": {
+      "value": "18",
+      "type": "lineHeights",
+      "description": "1.125rem"
+    },
+    "03": {
+      "value": "20",
+      "type": "lineHeights",
+      "description": "1.25rem"
+    },
+    "04": {
+      "value": "22",
+      "type": "lineHeights",
+      "description": "1.375rem"
+    },
+    "05": {
+      "value": "24",
+      "type": "lineHeights",
+      "description": "1.5rem"
+    },
+    "06": {
+      "value": "28",
+      "type": "lineHeights",
+      "description": "1.5rem"
+    },
+    "07": {
+      "value": "36",
+      "type": "lineHeights",
+      "description": "2.25rem"
+    },
+    "08": {
+      "value": "40",
+      "type": "lineHeights",
+      "description": "2.5rem"
+    },
+    "09": {
+      "value": "50",
+      "type": "lineHeights",
+      "description": "3.125rem"
+    }
   }
 }
