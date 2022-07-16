@@ -55,8 +55,14 @@
       "type": "color"
     },
     "transparent": {
-      "value": "rgba(255,255,255,0)",
-      "type": "color"
+      "white": {
+        "value": "rgba(255,255,255,0)",
+        "type": "color"
+      },
+      "black": {
+        "value": "rgba(0,0,0,0)",
+        "type": "color"
+      }
     },
     "zinc": {
       "100": {
