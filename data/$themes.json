@@ -12,7 +12,8 @@
       "01_core/type": "enabled",
       "02_comp": "enabled",
       "02_comp/button": "enabled",
-      "03_semantic": "enabled"
+      "03_semantic": "enabled",
+      "01_core/overlay": "enabled"
     },
     "$figmaStyleReferences": {}
   }
