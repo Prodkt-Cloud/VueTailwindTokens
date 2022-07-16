@@ -3,7 +3,9 @@
     "id": "46489086e7d04b83c2f8db2bfa65ef77d77f7639",
     "name": "MOYO UI (Headless Core)",
     "selectedTokenSets": {
-      "01_core": "source"
+      "01_core": "source",
+      "01_core/spacing": "enabled",
+      "01_core/radius": "enabled"
     },
     "$figmaStyleReferences": {}
   }
