@@ -45,24 +45,6 @@
       "type": "fontFamilies"
     }
   },
-  "letter-spacing": {
-    "00": {
-      "value": "-0.64",
-      "type": "letterSpacing"
-    },
-    "01": {
-      "value": "0",
-      "type": "letterSpacing"
-    },
-    "02": {
-      "value": "0.16",
-      "type": "letterSpacing"
-    },
-    "03": {
-      "value": "0.32",
-      "type": "letterSpacing"
-    }
-  },
   "color": {
     "base-white": {
       "value": "hsl(0, 0%, 100%, 1)",

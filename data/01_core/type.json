@@ -1,4 +1,22 @@
 {
+  "letter-spacing": {
+    "00": {
+      "value": "-0.64",
+      "type": "letterSpacing"
+    },
+    "01": {
+      "value": "0",
+      "type": "letterSpacing"
+    },
+    "02": {
+      "value": "0.16",
+      "type": "letterSpacing"
+    },
+    "03": {
+      "value": "0.32",
+      "type": "letterSpacing"
+    }
+  },
   "font-weight": {
     "thin": {
       "value": "Thin",
