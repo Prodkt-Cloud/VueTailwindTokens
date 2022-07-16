@@ -50,7 +50,7 @@
       "value": "hsl(0, 0%, 100%, 1)",
       "type": "color"
     },
-    "base-white-copy": {
+    "base-black": {
       "value": "hsl(0, 0%, 0%, 1)",
       "type": "color"
     },
