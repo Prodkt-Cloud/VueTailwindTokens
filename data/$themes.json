@@ -8,7 +8,8 @@
       "01_core/radius": "enabled",
       "01_core/border": "enabled",
       "01_core/sizing": "enabled",
-      "01_core/opacity": "enabled"
+      "01_core/opacity": "enabled",
+      "01_core/type": "enabled"
     },
     "$figmaStyleReferences": {}
   }

@@ -1,0 +1,36 @@
+{
+  "font-weight": {
+    "thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "extraLight": {
+      "value": "ExtraLight",
+      "type": "fontWeights"
+    },
+    "light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "semiBold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "extraBold": {
+      "value": "ExtraBold",
+      "type": "fontWeights"
+    }
+  }
+}
