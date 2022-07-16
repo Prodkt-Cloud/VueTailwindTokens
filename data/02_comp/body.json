@@ -1,0 +1,20 @@
+{
+  "text": {
+    "primary": {
+      "value": "{color.slate.1800}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{color.slate.700}",
+      "type": "color"
+    },
+    "placeholder": {
+      "value": "{color.slate.600}",
+      "type": "color"
+    },
+    "text-on-color": {
+      "value": "{color.slate.100}",
+      "type": "color"
+    }
+  }
+}

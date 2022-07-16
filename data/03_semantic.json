@@ -35,8 +35,12 @@
         "value": "{color.slate.100}",
         "type": "color"
       },
+      "inverse": {
+        "value": "{color.slate.1500}",
+        "type": "color"
+      },
       "default-hover": {
-        "value": "rgba({color.slate.500}, {opacity.02});",
+        "value": "{color.slate.500}12",
         "type": "color"
       }
     },
