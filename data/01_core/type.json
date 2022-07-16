@@ -49,6 +49,11 @@
       "type": "lineHeights",
       "description": "4rem"
     },
+    "11": {
+      "value": "102",
+      "type": "lineHeights",
+      "description": "6.375rem"
+    },
     "00": {
       "value": "100%",
       "type": "lineHeights"
@@ -150,9 +155,19 @@
       "description": "2.625rem"
     },
     "07": {
+      "value": "54px",
+      "type": "fontSizes",
+      "description": "3.375rem"
+    },
+    "08": {
       "value": "64px",
       "type": "fontSizes",
       "description": "3.375rem"
+    },
+    "09": {
+      "value": "92px",
+      "type": "fontSizes",
+      "description": "5.75rem"
     }
   }
 }
