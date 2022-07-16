@@ -1,5 +1,5 @@
 {
-  "text": {
+  "text-color": {
     "primary": {
       "value": "{color.slate.1800}",
       "type": "color"
@@ -12,7 +12,11 @@
       "value": "{color.slate.600}",
       "type": "color"
     },
-    "text-on-color": {
+    "on-color": {
+      "value": "{color.slate.100}",
+      "type": "color"
+    },
+    "inverse": {
       "value": "{color.slate.100}",
       "type": "color"
     }

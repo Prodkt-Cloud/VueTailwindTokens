@@ -1,0 +1,22 @@
+{
+  "link": {
+    "font-color": {
+      "base": {
+        "value": "{color.blue.500}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{color.blue.600}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{color.blue.700}",
+        "type": "color"
+      },
+      "visited": {
+        "value": "{color.purple.600}",
+        "type": "color"
+      }
+    }
+  }
+}
