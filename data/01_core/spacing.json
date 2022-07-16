@@ -1,24 +1,9 @@
 {
   "spacing": {
-    "10": {
-      "value": "64px",
+    "00": {
+      "value": "0px",
       "type": "spacing",
-      "description": "4rem"
-    },
-    "11": {
-      "value": "80px",
-      "type": "spacing",
-      "description": "5rem"
-    },
-    "12": {
-      "value": "96px",
-      "type": "spacing",
-      "description": "6rem"
-    },
-    "13": {
-      "value": "160px",
-      "type": "spacing",
-      "description": "10rem"
+      "description": "0rem"
     },
     "01": {
       "value": "2px",
@@ -64,11 +49,6 @@
       "value": "48px",
       "type": "spacing",
       "description": "3rem"
-    },
-    "00": {
-      "value": "0px",
-      "type": "spacing",
-      "description": "0rem"
     }
   }
 }
