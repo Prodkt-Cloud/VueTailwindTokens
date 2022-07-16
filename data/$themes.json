@@ -6,7 +6,8 @@
       "01_core": "source",
       "01_core/spacing": "enabled",
       "01_core/radius": "enabled",
-      "01_core/border": "enabled"
+      "01_core/border": "enabled",
+      "01_core/sizing": "enabled"
     },
     "$figmaStyleReferences": {}
   }
