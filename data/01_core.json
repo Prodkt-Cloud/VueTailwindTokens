@@ -39,6 +39,10 @@
     "cabinet-grotesk": {
       "value": "Cabinet Grotesk Variable",
       "type": "fontFamilies"
+    },
+    "sentient": {
+      "value": "Sentient Variable",
+      "type": "fontFamilies"
     }
   }
 }

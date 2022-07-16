@@ -101,15 +101,15 @@
   },
   "font-family": {
     "serif": {
-      "value": "Sentient",
+      "value": "{core-font.sentient}",
       "type": "fontFamilies"
     },
     "sans-serif": {
-      "value": "Satoshi",
+      "value": "{core-font.satoshi}",
       "type": "fontFamilies"
     },
     "mono": {
-      "value": "Azeret Mono",
+      "value": "{core-font.space-grotesk}",
       "type": "fontFamilies"
     }
   },
