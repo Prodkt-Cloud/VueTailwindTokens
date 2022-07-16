@@ -3,7 +3,6 @@
     "id": "46489086e7d04b83c2f8db2bfa65ef77d77f7639",
     "name": "MOYO UI (Headless Core)",
     "selectedTokenSets": {
-      "01_core": "source",
       "01_core/spacing": "enabled",
       "01_core/radius": "enabled",
       "01_core/border": "enabled",
@@ -13,7 +12,8 @@
       "01_core/overlay": "enabled",
       "02_comp/button": "enabled",
       "03_semantic/styles": "enabled",
-      "04_Brand/base/daylight": "enabled"
+      "04_brands/base/daylight": "enabled",
+      "01_core/colors": "enabled"
     },
     "$figmaStyleReferences": {}
   }
