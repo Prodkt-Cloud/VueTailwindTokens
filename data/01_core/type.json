@@ -98,5 +98,19 @@
       "type": "lineHeights",
       "description": "3.125rem"
     }
+  },
+  "font-family": {
+    "serif": {
+      "value": "Sentient",
+      "type": "fontFamilies"
+    },
+    "sans-serif": {
+      "value": "Satoshi",
+      "type": "fontFamilies"
+    },
+    "mono": {
+      "value": "Azeret Mono",
+      "type": "fontFamilies"
+    }
   }
 }

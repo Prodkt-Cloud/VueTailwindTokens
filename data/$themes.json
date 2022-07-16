@@ -9,7 +9,9 @@
       "01_core/border": "enabled",
       "01_core/sizing": "enabled",
       "01_core/opacity": "enabled",
-      "01_core/type": "enabled"
+      "01_core/type": "enabled",
+      "02_comp": "disabled",
+      "02_comp/button": "disabled"
     },
     "$figmaStyleReferences": {}
   }
