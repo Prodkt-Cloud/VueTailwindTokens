@@ -112,5 +112,12 @@
       "value": "Azeret Mono",
       "type": "fontFamilies"
     }
+  },
+  "font-size": {
+    "00": {
+      "value": "12px",
+      "type": "fontSizes",
+      "description": "0.75rem"
+    }
   }
 }
