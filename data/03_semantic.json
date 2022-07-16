@@ -1,1 +1,10 @@
-{}
+{
+  "semantic": {
+    "background": {
+      "default": {
+        "value": "{color.slate.100}",
+        "type": "color"
+      }
+    }
+  }
+}
