@@ -30,6 +30,31 @@
         "value": "6000",
         "type": "other",
         "description": "Dialog"
+      },
+      "popup": {
+        "value": "5000",
+        "type": "other",
+        "description": "Popup"
+      },
+      "sticky": {
+        "value": "100",
+        "type": "other",
+        "description": "Stickied element"
+      },
+      "base": {
+        "value": "1",
+        "type": "other",
+        "description": "Base default"
+      },
+      "docked": {
+        "value": "4",
+        "type": "other",
+        "description": "Docked Element"
+      },
+      "deepdive": {
+        "value": "-99999",
+        "type": "other",
+        "description": "Deep dive"
       }
     }
   }
