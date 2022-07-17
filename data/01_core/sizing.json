@@ -2,22 +2,26 @@
   "core": {
     "sizing": {
       "10": {
-        "value": "48",
+        "value": "40",
         "type": "sizing"
       },
       "11": {
-        "value": "64",
+        "value": "48",
         "type": "sizing"
       },
       "12": {
-        "value": "80",
+        "value": "64",
         "type": "sizing"
       },
       "13": {
-        "value": "96",
+        "value": "80",
         "type": "sizing"
       },
       "14": {
+        "value": "96",
+        "type": "sizing"
+      },
+      "15": {
         "value": "160",
         "type": "sizing"
       },
@@ -50,15 +54,15 @@
         "type": "sizing"
       },
       "07": {
-        "value": "24",
+        "value": "20",
         "type": "sizing"
       },
       "08": {
-        "value": "32",
+        "value": "24",
         "type": "sizing"
       },
       "09": {
-        "value": "40",
+        "value": "32",
         "type": "sizing"
       }
     }

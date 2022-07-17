@@ -104,7 +104,7 @@
           "type": "color",
           "value": "{core.color.sky.600}"
         },
-        "hover-copy": {
+        "active": {
           "type": "color",
           "value": "{core.color.sky.700}"
         },
@@ -1963,6 +1963,20 @@
             "value": "{size.400}",
             "type": "sizing"
           }
+        }
+      },
+      "icon-size": {
+        "16": {
+          "value": "{core.sizing.06}",
+          "type": "sizing"
+        },
+        "20": {
+          "value": "{core.sizing.07}",
+          "type": "sizing"
+        },
+        "24": {
+          "value": "{core.sizing.08}",
+          "type": "sizing"
         }
       }
     },
