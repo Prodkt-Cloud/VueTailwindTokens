@@ -1,0 +1,36 @@
+{
+  "core": {
+    "z-index": {
+      "toast": {
+        "value": "10000",
+        "type": "other",
+        "description": "Toast"
+      },
+      "spinner": {
+        "value": "9050",
+        "type": "other",
+        "description": "Spinner"
+      },
+      "modal": {
+        "value": "9000",
+        "type": "other",
+        "description": "Modal"
+      },
+      "reminder": {
+        "value": "8500",
+        "type": "other",
+        "description": "Reminder"
+      },
+      "overlay": {
+        "value": "8000",
+        "type": "other",
+        "description": "Overlay"
+      },
+      "dialog": {
+        "value": "6000",
+        "type": "other",
+        "description": "Dialog"
+      }
+    }
+  }
+}
