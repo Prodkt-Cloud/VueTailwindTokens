@@ -101,7 +101,7 @@
           "type": "color"
         },
         "transparent": {
-          "value": "hsla(228, 4%, 27%, 0)",
+          "value": "{core.color.slate.1000}B0",
           "type": "color"
         }
       },

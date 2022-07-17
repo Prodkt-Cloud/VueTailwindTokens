@@ -11,12 +11,13 @@
       "01_core/type": "enabled",
       "01_core/overlay": "enabled",
       "02_comp/button": "enabled",
-      "04_brands/base/daylight": "enabled",
       "01_core/colors": "enabled",
       "03_semantic": "enabled",
       "02_comp/body": "enabled",
       "02_comp/link": "enabled",
-      "01_core/shadow": "enabled"
+      "01_core/shadow": "enabled",
+      "04_themes/base/daylight": "enabled",
+      "05_brands/base": "enabled"
     },
     "$figmaStyleReferences": {}
   }
