@@ -1,1 +1,404 @@
-{}
+{
+  "hexal": {
+    "10": {
+      "value": "1A",
+      "type": "other"
+    },
+    "11": {
+      "value": "1C",
+      "type": "other"
+    },
+    "12": {
+      "value": "1F",
+      "type": "other"
+    },
+    "13": {
+      "value": "21",
+      "type": "other"
+    },
+    "14": {
+      "value": "24",
+      "type": "other"
+    },
+    "15": {
+      "value": "26",
+      "type": "other"
+    },
+    "16": {
+      "value": "29",
+      "type": "other"
+    },
+    "17": {
+      "value": "2B",
+      "type": "other"
+    },
+    "18": {
+      "value": "2E",
+      "type": "other"
+    },
+    "19": {
+      "value": "30",
+      "type": "other"
+    },
+    "20": {
+      "value": "33",
+      "type": "other"
+    },
+    "21": {
+      "value": "36",
+      "type": "other"
+    },
+    "22": {
+      "value": "38",
+      "type": "other"
+    },
+    "23": {
+      "value": "3B",
+      "type": "other"
+    },
+    "24": {
+      "value": "3D",
+      "type": "other"
+    },
+    "25": {
+      "value": "40",
+      "type": "other"
+    },
+    "26": {
+      "value": "42",
+      "type": "other"
+    },
+    "27": {
+      "value": "45",
+      "type": "other"
+    },
+    "28": {
+      "value": "47",
+      "type": "other"
+    },
+    "29": {
+      "value": "4A",
+      "type": "other"
+    },
+    "30": {
+      "value": "FD",
+      "type": "other"
+    },
+    "31": {
+      "value": "4F",
+      "type": "other"
+    },
+    "32": {
+      "value": "52",
+      "type": "other"
+    },
+    "33": {
+      "value": "54",
+      "type": "other"
+    },
+    "34": {
+      "value": "57",
+      "type": "other"
+    },
+    "35": {
+      "value": "59",
+      "type": "other"
+    },
+    "36": {
+      "value": "5C",
+      "type": "other"
+    },
+    "37": {
+      "value": "5E",
+      "type": "other"
+    },
+    "38": {
+      "value": "61",
+      "type": "other"
+    },
+    "39": {
+      "value": "63",
+      "type": "other"
+    },
+    "40": {
+      "value": "66",
+      "type": "other"
+    },
+    "41": {
+      "value": "69",
+      "type": "other"
+    },
+    "42": {
+      "value": "6B",
+      "type": "other"
+    },
+    "43": {
+      "value": "6E",
+      "type": "other"
+    },
+    "44": {
+      "value": "70",
+      "type": "other"
+    },
+    "45": {
+      "value": "73",
+      "type": "other"
+    },
+    "46": {
+      "value": "75",
+      "type": "other"
+    },
+    "47": {
+      "value": "78",
+      "type": "other"
+    },
+    "48": {
+      "value": "7A",
+      "type": "other"
+    },
+    "49": {
+      "value": "7D",
+      "type": "other"
+    },
+    "50": {
+      "value": "80",
+      "type": "other"
+    },
+    "51": {
+      "value": "82",
+      "type": "other"
+    },
+    "52": {
+      "value": "85",
+      "type": "other"
+    },
+    "53": {
+      "value": "87",
+      "type": "other"
+    },
+    "54": {
+      "value": "8A",
+      "type": "other"
+    },
+    "55": {
+      "value": "8C",
+      "type": "other"
+    },
+    "56": {
+      "value": "8F",
+      "type": "other"
+    },
+    "57": {
+      "value": "91",
+      "type": "other"
+    },
+    "58": {
+      "value": "94",
+      "type": "other"
+    },
+    "59": {
+      "value": "96",
+      "type": "other"
+    },
+    "60": {
+      "value": "99",
+      "type": "other"
+    },
+    "61": {
+      "value": "9C",
+      "type": "other"
+    },
+    "62": {
+      "value": "9E",
+      "type": "other"
+    },
+    "63": {
+      "value": "A1",
+      "type": "other"
+    },
+    "64": {
+      "value": "A3",
+      "type": "other"
+    },
+    "65": {
+      "value": "A6",
+      "type": "other"
+    },
+    "66": {
+      "value": "A8",
+      "type": "other"
+    },
+    "67": {
+      "value": "AB",
+      "type": "other"
+    },
+    "68": {
+      "value": "AD",
+      "type": "other"
+    },
+    "69": {
+      "value": "B0",
+      "type": "other"
+    },
+    "70": {
+      "value": "B3",
+      "type": "other"
+    },
+    "71": {
+      "value": "B5",
+      "type": "other"
+    },
+    "72": {
+      "value": "B8",
+      "type": "other"
+    },
+    "73": {
+      "value": "BA",
+      "type": "other"
+    },
+    "74": {
+      "value": "BD",
+      "type": "other"
+    },
+    "75": {
+      "value": "BF",
+      "type": "other"
+    },
+    "76": {
+      "value": "C2",
+      "type": "other"
+    },
+    "77": {
+      "value": "C4",
+      "type": "other"
+    },
+    "78": {
+      "value": "C7",
+      "type": "other"
+    },
+    "79": {
+      "value": "C9",
+      "type": "other"
+    },
+    "80": {
+      "value": "CC",
+      "type": "other"
+    },
+    "81": {
+      "value": "CF",
+      "type": "other"
+    },
+    "82": {
+      "value": "D1",
+      "type": "other"
+    },
+    "83": {
+      "value": "D4",
+      "type": "other"
+    },
+    "84": {
+      "value": "D6",
+      "type": "other"
+    },
+    "85": {
+      "value": "D9",
+      "type": "other"
+    },
+    "86": {
+      "value": "DB",
+      "type": "other"
+    },
+    "87": {
+      "value": "DE",
+      "type": "other"
+    },
+    "88": {
+      "value": "E0",
+      "type": "other"
+    },
+    "89": {
+      "value": "E3",
+      "type": "other"
+    },
+    "90": {
+      "value": "E6",
+      "type": "other"
+    },
+    "91": {
+      "value": "E8",
+      "type": "other"
+    },
+    "92": {
+      "value": "EB",
+      "type": "other"
+    },
+    "93": {
+      "value": "ED",
+      "type": "other"
+    },
+    "94": {
+      "value": "F0",
+      "type": "other"
+    },
+    "95": {
+      "value": "F2",
+      "type": "other"
+    },
+    "96": {
+      "value": "F5",
+      "type": "other"
+    },
+    "97": {
+      "value": "F7",
+      "type": "other"
+    },
+    "98": {
+      "value": "FA",
+      "type": "other"
+    },
+    "99": {
+      "value": "FC",
+      "type": "other"
+    },
+    "100": {
+      "value": "FF",
+      "type": "other"
+    },
+    "09": {
+      "value": "17",
+      "type": "other"
+    },
+    "08": {
+      "value": "14",
+      "type": "other"
+    },
+    "07": {
+      "value": "12",
+      "type": "other"
+    },
+    "06": {
+      "value": "0F",
+      "type": "other"
+    },
+    "05": {
+      "value": "0D",
+      "type": "other"
+    },
+    "04": {
+      "value": "0A",
+      "type": "other"
+    },
+    "03": {
+      "value": "05",
+      "type": "other"
+    },
+    "02": {
+      "value": "03",
+      "type": "other"
+    },
+    "01": {
+      "value": "00",
+      "type": "other"
+    }
+  }
+}
