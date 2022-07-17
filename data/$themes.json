@@ -17,7 +17,8 @@
       "02_comp/link": "enabled",
       "01_core/shadow": "enabled",
       "04_themes/base/daylight": "enabled",
-      "05_brands/base": "enabled"
+      "05_brands/base": "enabled",
+      "01_core/hexal": "enabled"
     },
     "$figmaStyleReferences": {}
   }
