@@ -64,6 +64,10 @@
       "09": {
         "value": "32",
         "type": "sizing"
+      },
+      "full-width": {
+        "value": "100%",
+        "type": "sizing"
       }
     }
   }
