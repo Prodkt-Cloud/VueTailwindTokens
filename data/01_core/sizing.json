@@ -1,64 +1,66 @@
 {
-  "sizing": {
-    "10": {
-      "value": "48",
-      "type": "sizing"
-    },
-    "11": {
-      "value": "64",
-      "type": "sizing"
-    },
-    "12": {
-      "value": "80",
-      "type": "sizing"
-    },
-    "13": {
-      "value": "96",
-      "type": "sizing"
-    },
-    "14": {
-      "value": "160",
-      "type": "sizing"
-    },
-    "00": {
-      "value": "0",
-      "type": "sizing"
-    },
-    "01": {
-      "value": "1",
-      "type": "sizing"
-    },
-    "02": {
-      "value": "2",
-      "type": "sizing"
-    },
-    "03": {
-      "value": "4",
-      "type": "sizing"
-    },
-    "04": {
-      "value": "8",
-      "type": "sizing"
-    },
-    "05": {
-      "value": "12",
-      "type": "sizing"
-    },
-    "06": {
-      "value": "16",
-      "type": "sizing"
-    },
-    "07": {
-      "value": "24",
-      "type": "sizing"
-    },
-    "08": {
-      "value": "32",
-      "type": "sizing"
-    },
-    "09": {
-      "value": "40",
-      "type": "sizing"
+  "core": {
+    "sizing": {
+      "10": {
+        "value": "48",
+        "type": "sizing"
+      },
+      "11": {
+        "value": "64",
+        "type": "sizing"
+      },
+      "12": {
+        "value": "80",
+        "type": "sizing"
+      },
+      "13": {
+        "value": "96",
+        "type": "sizing"
+      },
+      "14": {
+        "value": "160",
+        "type": "sizing"
+      },
+      "00": {
+        "value": "0",
+        "type": "sizing"
+      },
+      "01": {
+        "value": "1",
+        "type": "sizing"
+      },
+      "02": {
+        "value": "2",
+        "type": "sizing"
+      },
+      "03": {
+        "value": "4",
+        "type": "sizing"
+      },
+      "04": {
+        "value": "8",
+        "type": "sizing"
+      },
+      "05": {
+        "value": "12",
+        "type": "sizing"
+      },
+      "06": {
+        "value": "16",
+        "type": "sizing"
+      },
+      "07": {
+        "value": "24",
+        "type": "sizing"
+      },
+      "08": {
+        "value": "32",
+        "type": "sizing"
+      },
+      "09": {
+        "value": "40",
+        "type": "sizing"
+      }
     }
   }
 }

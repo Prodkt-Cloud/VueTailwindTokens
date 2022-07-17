@@ -1,64 +1,66 @@
 {
-  "border-width": {
-    "10": {
-      "value": "48",
-      "type": "borderWidth"
-    },
-    "11": {
-      "value": "64",
-      "type": "borderWidth"
-    },
-    "12": {
-      "value": "80",
-      "type": "borderWidth"
-    },
-    "13": {
-      "value": "96",
-      "type": "borderWidth"
-    },
-    "14": {
-      "value": "160",
-      "type": "borderWidth"
-    },
-    "00": {
-      "value": "0",
-      "type": "borderWidth"
-    },
-    "01": {
-      "value": "1",
-      "type": "borderWidth"
-    },
-    "02": {
-      "value": "2",
-      "type": "borderWidth"
-    },
-    "03": {
-      "value": "4",
-      "type": "borderWidth"
-    },
-    "04": {
-      "value": "8",
-      "type": "borderWidth"
-    },
-    "05": {
-      "value": "12",
-      "type": "borderWidth"
-    },
-    "06": {
-      "value": "16",
-      "type": "borderWidth"
-    },
-    "07": {
-      "value": "24",
-      "type": "borderWidth"
-    },
-    "08": {
-      "value": "32",
-      "type": "borderWidth"
-    },
-    "09": {
-      "value": "40",
-      "type": "borderWidth"
+  "core": {
+    "border-width": {
+      "10": {
+        "value": "48",
+        "type": "borderWidth"
+      },
+      "11": {
+        "value": "64",
+        "type": "borderWidth"
+      },
+      "12": {
+        "value": "80",
+        "type": "borderWidth"
+      },
+      "13": {
+        "value": "96",
+        "type": "borderWidth"
+      },
+      "14": {
+        "value": "160",
+        "type": "borderWidth"
+      },
+      "00": {
+        "value": "0",
+        "type": "borderWidth"
+      },
+      "01": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "02": {
+        "value": "2",
+        "type": "borderWidth"
+      },
+      "03": {
+        "value": "4",
+        "type": "borderWidth"
+      },
+      "04": {
+        "value": "8",
+        "type": "borderWidth"
+      },
+      "05": {
+        "value": "12",
+        "type": "borderWidth"
+      },
+      "06": {
+        "value": "16",
+        "type": "borderWidth"
+      },
+      "07": {
+        "value": "24",
+        "type": "borderWidth"
+      },
+      "08": {
+        "value": "32",
+        "type": "borderWidth"
+      },
+      "09": {
+        "value": "40",
+        "type": "borderWidth"
+      }
     }
   }
 }

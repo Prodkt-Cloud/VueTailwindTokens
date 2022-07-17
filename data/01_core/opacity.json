@@ -1,48 +1,50 @@
 {
-  "opacity": {
-    "10": {
-      "value": "100%",
-      "type": "opacity"
-    },
-    "00": {
-      "value": "0%",
-      "type": "opacity"
-    },
-    "01": {
-      "value": "8%",
-      "type": "opacity"
-    },
-    "02": {
-      "value": "16%",
-      "type": "opacity"
-    },
-    "03": {
-      "value": "24%",
-      "type": "opacity"
-    },
-    "04": {
-      "value": "32%",
-      "type": "opacity"
-    },
-    "05": {
-      "value": "40%",
-      "type": "opacity"
-    },
-    "06": {
-      "value": "48%",
-      "type": "opacity"
-    },
-    "07": {
-      "value": "64%",
-      "type": "opacity"
-    },
-    "08": {
-      "value": "80%",
-      "type": "opacity"
-    },
-    "09": {
-      "value": "96%",
-      "type": "opacity"
+  "core": {
+    "opacity": {
+      "10": {
+        "value": "100%",
+        "type": "opacity"
+      },
+      "00": {
+        "value": "0%",
+        "type": "opacity"
+      },
+      "01": {
+        "value": "8%",
+        "type": "opacity"
+      },
+      "02": {
+        "value": "16%",
+        "type": "opacity"
+      },
+      "03": {
+        "value": "24%",
+        "type": "opacity"
+      },
+      "04": {
+        "value": "32%",
+        "type": "opacity"
+      },
+      "05": {
+        "value": "40%",
+        "type": "opacity"
+      },
+      "06": {
+        "value": "48%",
+        "type": "opacity"
+      },
+      "07": {
+        "value": "64%",
+        "type": "opacity"
+      },
+      "08": {
+        "value": "80%",
+        "type": "opacity"
+      },
+      "09": {
+        "value": "96%",
+        "type": "opacity"
+      }
     }
   }
 }

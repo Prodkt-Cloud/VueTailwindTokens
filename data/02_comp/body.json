@@ -2,24 +2,24 @@
   "body": {
     "text-color": {
       "primary": {
-        "value": "{color.slate.1800}",
-        "type": "color"
+        "type": "color",
+        "value": "{core.color.slate.1800}"
       },
       "secondary": {
-        "value": "{color.slate.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{core.color.slate.700}"
       },
       "placeholder": {
-        "value": "{color.slate.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{core.color.slate.600}"
       },
       "on-color": {
-        "value": "{color.slate.100}",
-        "type": "color"
+        "type": "color",
+        "value": "{core.color.slate.100}"
       },
       "inverse": {
-        "value": "{color.slate.100}",
-        "type": "color"
+        "type": "color",
+        "value": "{core.color.slate.100}"
       }
     },
     "line-height": {

@@ -2,20 +2,20 @@
   "link": {
     "font-color": {
       "base": {
-        "value": "{color.blue.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{core.color.blue.500}"
       },
       "hover": {
-        "value": "{color.blue.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{core.color.blue.600}"
       },
       "active": {
-        "value": "{color.blue.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{core.color.blue.700}"
       },
       "visited": {
-        "value": "{color.purple.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{core.color.purple.600}"
       }
     }
   }
