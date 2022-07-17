@@ -1,1 +1,31 @@
-{}
+{
+  "core": {
+    "breakpoint": {
+      "small": {
+        "value": "320px",
+        "type": "other",
+        "description": "20rem"
+      },
+      "medium": {
+        "value": "672px",
+        "type": "other",
+        "description": "42rem"
+      },
+      "large": {
+        "value": "1056px",
+        "type": "other",
+        "description": "66rem"
+      },
+      "extra-large": {
+        "value": "1312px",
+        "type": "other",
+        "description": "82rem"
+      },
+      "max": {
+        "value": "1584px",
+        "type": "other",
+        "description": "99rem"
+      }
+    }
+  }
+}
