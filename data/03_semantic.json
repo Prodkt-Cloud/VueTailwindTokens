@@ -1266,6 +1266,10 @@
           "type": "fontSizes",
           "value": "{core.font-size.8}"
         }
+      },
+      "base": {
+        "value": "{core.font-size.02}",
+        "type": "fontSizes"
       }
     },
     "spacing": {
