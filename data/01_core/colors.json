@@ -1,51 +1,5 @@
 {
   "core": {
-    "typeface": {
-      "satoshi": {
-        "value": "Satoshi Variable",
-        "type": "fontFamilies"
-      },
-      "general-sans": {
-        "value": "General Sans Variable",
-        "type": "fontFamilies"
-      },
-      "manrope": {
-        "value": "Manrope Variable",
-        "type": "fontFamilies"
-      },
-      "supreme": {
-        "value": "Supreme Variable",
-        "type": "fontFamilies"
-      },
-      "plus-jakarta-sans": {
-        "value": "Plus Jakarta Sans",
-        "type": "fontFamilies"
-      },
-      "space-grotesk": {
-        "value": "Space Grotesk",
-        "type": "fontFamilies"
-      },
-      "circular": {
-        "value": "Circular Std",
-        "type": "fontFamilies"
-      },
-      "clash-grotesk": {
-        "value": "Clash Grotesk Variable",
-        "type": "fontFamilies"
-      },
-      "epilogue": {
-        "value": "Epilogue",
-        "type": "fontFamilies"
-      },
-      "cabinet-grotesk": {
-        "value": "Cabinet Grotesk Variable",
-        "type": "fontFamilies"
-      },
-      "sentient": {
-        "value": "Sentient Variable",
-        "type": "fontFamilies"
-      }
-    },
     "color": {
       "base-white": {
         "value": "hsl(0, 0%, 100%, 1)",

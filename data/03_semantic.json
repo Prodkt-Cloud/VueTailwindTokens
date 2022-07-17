@@ -218,18 +218,14 @@
           "value": "{semantic.fg.on-disabled}",
           "type": "color"
         }
-      },
-      "fg": {
-        "disabled": {
-          "value": "{semantic.fg.disabled}",
-          "type": "color"
-        }
       }
     },
     "border": {
-      "default": {
-        "value": "{semantic.bg.subtle}",
-        "type": "color"
+      "subtle": {
+        "00": {
+          "value": "{core.color.slate.200}",
+          "type": "color"
+        }
       },
       "radius": {
         "small": {
