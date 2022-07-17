@@ -228,21 +228,33 @@
         }
       },
       "radius": {
+        "base": {
+          "type": "borderRadius",
+          "value": "{core.border-radius.03}"
+        },
         "small": {
           "type": "borderRadius",
-          "value": "{core.border-radius.0}"
+          "value": "{semantic.border.radius.base}/2"
         },
         "medium": {
           "type": "borderRadius",
-          "value": "{core.border-radius.4}"
+          "value": "{semantic.border.radius.base}"
         },
         "large": {
           "type": "borderRadius",
-          "value": "{core.border-radius.6}"
+          "value": "{semantic.border.radius.base}*2"
+        },
+        "extra-large": {
+          "type": "borderRadius",
+          "value": "{semantic.border.radius.base}*4"
         },
         "round": {
           "type": "borderRadius",
-          "value": "{core.border-radius.9}"
+          "value": "{semantic.border.radius.base}*10"
+        },
+        "none": {
+          "type": "borderRadius",
+          "value": "{semantic.border.radius.base}*0"
         }
       }
     },
@@ -1981,7 +1993,7 @@
       },
       "hover": {
         "type": "color",
-        "value": "{core.color.slate.500}12"
+        "value": "{core.color.slate.500}{core.hexal.12}"
       },
       "active": {
         "type": "color",
