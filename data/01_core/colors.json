@@ -144,6 +144,10 @@
       "2000": {
         "value": "hsla(210, 7%, 5%, 1)",
         "type": "color"
+      },
+      "transparent": {
+        "value": "hsla(228, 4%, 27%, 0.0)",
+        "type": "color"
       }
     },
     "neutral": {
@@ -1291,6 +1295,10 @@
       },
       "2000": {
         "value": "hsla(216, 17%, 6%, 1)",
+        "type": "color"
+      },
+      "transparent": {
+        "value": "hsla(214, 16%, 28%, 0.0)",
         "type": "color"
       }
     },

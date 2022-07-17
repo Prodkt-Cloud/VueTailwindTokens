@@ -273,7 +273,7 @@
         "negative": {
           "default": {
             "border-color": {
-              "value": "{semantic.error.base}",
+              "value": "{semantic.support.error.base}",
               "type": "color"
             },
             "quiet-border-color": {
