@@ -146,7 +146,7 @@
         "type": "color"
       },
       "transparent": {
-        "value": "hsla(228, 4%, 27%, 0.0)",
+        "value": "hsla(228, 4%, 27%, 0)",
         "type": "color"
       }
     },
@@ -1298,7 +1298,7 @@
         "type": "color"
       },
       "transparent": {
-        "value": "hsla(214, 16%, 28%, 0.0)",
+        "value": "hsla(214, 16%, 28%, 0)",
         "type": "color"
       }
     },

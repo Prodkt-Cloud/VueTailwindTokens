@@ -30,24 +30,6 @@
         "type": "color"
       }
     },
-    "link": {
-      "base": {
-        "value": "{color.blue.500}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{color.blue.600}",
-        "type": "color"
-      },
-      "active": {
-        "value": "{color.blue.700}",
-        "type": "color"
-      },
-      "visited": {
-        "value": "{color.purple.600}",
-        "type": "color"
-      }
-    },
     "primary": {
       "base": {
         "value": "{color.blue.600}",
@@ -273,7 +255,7 @@
         "negative": {
           "default": {
             "border-color": {
-              "value": "{semantic.support.error.base}",
+              "value": "{semantic.support.error.inverse}",
               "type": "color"
             },
             "quiet-border-color": {
@@ -441,7 +423,7 @@
               "type": "color"
             },
             "quiet-border-color": {
-              "value": "{color.neutrals.transparent}",
+              "value": "{semantic.primary.inverse}",
               "type": "color"
             },
             "text-color": {
@@ -449,21 +431,21 @@
               "type": "color"
             },
             "quiet-text-color": {
-              "value": "{semantic.primary.base}",
+              "value": "{semantic.primary.inverse}",
               "type": "color"
             },
             "background-color": {
-              "value": "{color.neutrals.transparent}",
+              "value": "{semantic.primary.base}",
               "type": "color"
             },
             "quiet-background-color": {
-              "value": "{color.neutrals.transparent}",
+              "value": "{semantic.primary.inverse}",
               "type": "color"
             }
           },
           "hover": {
             "border-color": {
-              "value": "{semantic.primary.active}",
+              "value": "{semantic.primary.hover}",
               "type": "color"
             },
             "quiet-border-color": {
@@ -471,7 +453,7 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.primary.hover}",
               "type": "color"
             },
             "quiet-text-color": {
@@ -489,7 +471,7 @@
           },
           "active": {
             "border-color": {
-              "value": "{semantic.primary.hover}",
+              "value": "{semantic.primary.active}",
               "type": "color"
             },
             "quiet-border-color": {
@@ -497,7 +479,7 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.primary.active}",
               "type": "color"
             },
             "quiet-text-color": {
@@ -547,7 +529,7 @@
               "type": "color"
             },
             "quiet-border-color": {
-              "value": "{color.neutrals.transparent}",
+              "value": "{semantic.secondary.inverse}",
               "type": "color"
             },
             "text-color": {
@@ -555,67 +537,67 @@
               "type": "color"
             },
             "quiet-text-color": {
-              "value": "{semantic.secondary.base}",
+              "value": "{semantic.secondary.inverse}",
               "type": "color"
             },
             "background-color": {
-              "value": "{color.neutrals.transparent}",
+              "value": "{semantic.secondary.base}",
               "type": "color"
             },
             "quiet-background-color": {
-              "value": "{color.neutrals.transparent}",
+              "value": "{semantic.secondary.inverse}",
               "type": "color"
             }
           },
           "hover": {
             "border-color": {
-              "value": "{semantic.secondary.active}",
+              "value": "{semantic.secondary.hover}",
               "type": "color"
             },
             "quiet-border-color": {
-              "value": "{color.neutrals.transparent}",
+              "value": "{semantic.secondary.inverse}",
               "type": "color"
             },
             "text-color": {
-              "value": "{semantic.secondary.base}",
+              "value": "{semantic.secondary.hover}",
               "type": "color"
             },
             "quiet-text-color": {
-              "value": "{semantic.secondary.base}",
+              "value": "{semantic.secondary.inverse}",
               "type": "color"
             },
             "background-color": {
-              "value": "{semantic.secondary.active}",
+              "value": "{semantic.secondary.hover}",
               "type": "color"
             },
             "quiet-background-color": {
-              "value": "{semantic.secondary.active}",
+              "value": "{semantic.secondary.inverse}",
               "type": "color"
             }
           },
           "active": {
             "border-color": {
-              "value": "{semantic.secondary.hover}",
+              "value": "{semantic.secondary.active}",
               "type": "color"
             },
             "quiet-border-color": {
-              "value": "{color.neutrals.transparent}",
+              "value": "{semantic.secondary.inverse}",
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.secondary.active}",
               "type": "color"
             },
             "quiet-text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.secondary.inverse}",
               "type": "color"
             },
             "background-color": {
-              "value": "{semantic.secondary.hover}",
+              "value": "{semantic.secondary.active}",
               "type": "color"
             },
             "quiet-background-color": {
-              "value": "{semantic.secondary.hover}",
+              "value": "{semantic.secondary.inverse}",
               "type": "color"
             }
           },
