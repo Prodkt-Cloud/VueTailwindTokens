@@ -1,1 +1,8 @@
-{}
+{
+  "brand": {
+    "primary": {
+      "value": "{semantic.primary.base}",
+      "type": "color"
+    }
+  }
+}
