@@ -85,9 +85,35 @@
         "type": "color",
         "value": "{semantic.support.error.base}"
       },
-      "error-copy": {
+      "disabled": {
         "type": "color",
         "value": "{core.color.slate.2000}{core.hexal.25}"
+      }
+    },
+    "icon": {
+      "primary": {
+        "value": "{core.color.slate.1800}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{core.color.slate.1500}",
+        "type": "color"
+      },
+      "on-color": {
+        "value": "{core.color.base-white}",
+        "type": "color"
+      },
+      "on-color-disabled": {
+        "value": "{core.color.slate.500}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{core.color.base-white}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{core.color.slate.2000}{core.hexal.25}",
+        "type": "color"
       }
     },
     "primary": {
