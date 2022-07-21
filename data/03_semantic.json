@@ -28,6 +28,10 @@
       "inverse-hover": {
         "type": "color",
         "value": "{core.color.slate.1600}"
+      },
+      "inverse-hover-copy": {
+        "type": "color",
+        "value": "{core.color.slate.1600}"
       }
     },
     "primary": {
@@ -1470,6 +1474,24 @@
       "inverse-hover": {
         "type": "color",
         "value": "{core.color.slate.1600}"
+      }
+    },
+    "brand": {
+      "base": {
+        "type": "color",
+        "value": "{core.color.blue.600}"
+      },
+      "hover": {
+        "type": "color",
+        "value": "{core.color.blue.700}"
+      },
+      "active": {
+        "type": "color",
+        "value": "{core.color.blue.800}"
+      },
+      "inverse": {
+        "type": "color",
+        "value": "{core.color.blue.400}"
       }
     }
   },
