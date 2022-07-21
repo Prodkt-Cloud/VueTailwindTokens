@@ -1111,7 +1111,7 @@
         "07": {
           "value": {
             "fontFamily": "{semantic.font-family.typography.sans-serif}",
-            "fontWeight": "{semantic.font-weight.typography.semibold}",
+            "fontWeight": "{semantic.font-weight.typography.bold}",
             "lineHeight": "{semantic.line-height.typography.heading.07}",
             "fontSize": "{semantic.font-size.typography.heading.07}",
             "letterSpacing": "{semantic.letter-spacing.typography.heading.07}",
