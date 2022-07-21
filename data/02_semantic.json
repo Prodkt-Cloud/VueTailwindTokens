@@ -931,6 +931,56 @@
             "type": "lineHeights",
             "value": "{core.line-height.03}"
           }
+        },
+        "code": {
+          "01": {
+            "value": "{core.line-height.01}",
+            "type": "lineHeights"
+          },
+          "02": {
+            "value": "{core.line-height.02}",
+            "type": "lineHeights"
+          }
+        },
+        "label": {
+          "01": {
+            "value": "{core.line-height.01}",
+            "type": "lineHeights"
+          },
+          "02": {
+            "value": "{core.line-height.02}",
+            "type": "lineHeights"
+          }
+        },
+        "helper": {
+          "01": {
+            "value": "{core.line-height.01}",
+            "type": "lineHeights"
+          },
+          "02": {
+            "value": "{core.line-height.02}",
+            "type": "lineHeights"
+          }
+        },
+        "legal": {
+          "01": {
+            "value": "{core.line-height.01}",
+            "type": "lineHeights"
+          },
+          "02": {
+            "value": "{core.line-height.02}",
+            "type": "lineHeights"
+          }
+        },
+        "body": {
+          "01": {
+            "value": "{core.line-height.03}",
+            "type": "lineHeights"
+          },
+          "02": {
+            "value": "{core.line-height.05}",
+            "type": "lineHeights"
+          }
         }
       }
     },
