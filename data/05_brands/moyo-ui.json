@@ -4,7 +4,7 @@
       "20": {
         "value": [
           {
-            "color": "rgba({theme.shadow.base}, {theme.shadow.opacity.blur})",
+            "color": "rgba({theme.shadow.base}, {core.shadow.opacity.blur})",
             "type": "dropShadow",
             "x": "0",
             "y": "{core.shadow.y.20}",
@@ -12,7 +12,7 @@
             "spread": "0"
           },
           {
-            "color": "rgba({theme.shadow.base}, {theme.shadow.opacity.base})",
+            "color": "rgba({theme.shadow.base}, {core.shadow.opacity.base})",
             "type": "dropShadow",
             "x": "0",
             "y": "0",

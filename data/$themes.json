@@ -17,11 +17,11 @@
       "01_core/alphahex": "enabled",
       "02_semantic": "enabled",
       "03_comp/button": "enabled",
-      "05_brands/MOYO": "enabled",
       "04_themes/daylight/white": "disabled",
       "04_themes/daylight/gray": "disabled",
       "04_themes/nightfall/black": "disabled",
-      "04_themes/nightfall/gray": "disabled"
+      "04_themes/nightfall/gray": "disabled",
+      "05_brands/moyo-ui": "enabled"
     },
     "$figmaStyleReferences": {}
   }
