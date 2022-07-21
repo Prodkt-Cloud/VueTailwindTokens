@@ -29,9 +29,27 @@
         "type": "color",
         "value": "{core.color.slate.1600}"
       },
-      "inverse-hover-copy": {
+      "brand": {
         "type": "color",
-        "value": "{core.color.slate.1600}"
+        "value": "{brand.primary}"
+      }
+    },
+    "brand": {
+      "base": {
+        "type": "color",
+        "value": "{core.color.blue.600}"
+      },
+      "hover": {
+        "type": "color",
+        "value": "{core.color.blue.700}"
+      },
+      "active": {
+        "type": "color",
+        "value": "{core.color.blue.800}"
+      },
+      "inverse": {
+        "type": "color",
+        "value": "{core.color.blue.400}"
       }
     },
     "primary": {
@@ -1474,24 +1492,6 @@
       "inverse-hover": {
         "type": "color",
         "value": "{core.color.slate.1600}"
-      }
-    },
-    "brand": {
-      "base": {
-        "type": "color",
-        "value": "{core.color.blue.600}"
-      },
-      "hover": {
-        "type": "color",
-        "value": "{core.color.blue.700}"
-      },
-      "active": {
-        "type": "color",
-        "value": "{core.color.blue.800}"
-      },
-      "inverse": {
-        "type": "color",
-        "value": "{core.color.blue.400}"
       }
     }
   },
