@@ -320,17 +320,31 @@
           "value": "{core.color.slate.200}",
           "type": "color"
         },
-        "01": {
+        "02": {
           "value": "{core.color.slate.200}",
           "type": "color"
         },
-        "02": {
+        "01": {
           "value": "{core.color.slate.200}",
           "type": "color"
         },
         "03": {
           "value": "{core.color.slate.200}",
           "type": "color"
+        },
+        "selected": {
+          "01": {
+            "value": "{core.color.slate.300}",
+            "type": "color"
+          },
+          "02": {
+            "value": "{core.color.slate.300}",
+            "type": "color"
+          },
+          "03": {
+            "value": "{core.color.slate.300}",
+            "type": "color"
+          }
         }
       },
       "radius": {
