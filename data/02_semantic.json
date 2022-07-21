@@ -1204,6 +1204,20 @@
           },
           "type": "typography"
         }
+      },
+      "label": {
+        "01": {
+          "value": {
+            "fontFamily": "{semantic.font-family.typography.sans-serif}",
+            "fontWeight": "{semantic.font-weight.typography.regular}",
+            "lineHeight": "{semantic.line-height.typography.label.01}",
+            "fontSize": "{semantic.font-size.typography.label.01}",
+            "letterSpacing": "{semantic.letter-spacing.typography.label.01}",
+            "textDecoration": "{core.text-decoration.none}"
+          },
+          "type": "typography",
+          "description": "Productive"
+        }
       }
     }
   }
