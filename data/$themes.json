@@ -12,14 +12,14 @@
       "01_core/overlay": "enabled",
       "01_core/colors": "enabled",
       "01_core/shadow": "enabled",
-      "05_brands/base": "enabled",
       "01_core/breakpoints": "enabled",
       "01_core/z-index": "enabled",
       "01_core/alphahex": "enabled",
       "02_semantic": "enabled",
       "04_themes/daylight": "disabled",
       "04_themes/nightfall": "disabled",
-      "03_comp/button": "enabled"
+      "03_comp/button": "enabled",
+      "05_brands/MOYO": "enabled"
     },
     "$figmaStyleReferences": {}
   }
