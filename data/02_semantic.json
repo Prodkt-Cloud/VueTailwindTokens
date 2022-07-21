@@ -1083,6 +1083,26 @@
             "value": "{core.letter-spacing.02}",
             "type": "letterSpacing"
           }
+        },
+        "body": {
+          "01": {
+            "value": "{core.letter-spacing.02}",
+            "type": "letterSpacing"
+          },
+          "02": {
+            "value": "{core.letter-spacing.01}",
+            "type": "letterSpacing"
+          },
+          "compact": {
+            "01": {
+              "value": "{core.letter-spacing.02}",
+              "type": "letterSpacing"
+            },
+            "02": {
+              "value": "{core.letter-spacing.01}",
+              "type": "letterSpacing"
+            }
+          }
         }
       }
     }
