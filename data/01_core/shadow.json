@@ -1,6 +1,6 @@
 {
-  "Shadow": {
-    "Theme": {
+  "core": {
+    "shadow": {
       "20": {
         "value": [
           {
