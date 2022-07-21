@@ -1119,6 +1119,90 @@
           },
           "type": "typography",
           "description": "Productive"
+        },
+        "06": {
+          "value": {
+            "fontFamily": "{semantic.font-family.typography.sans-serif}",
+            "fontWeight": "{semantic.font-weight.typography.bold}",
+            "lineHeight": "{semantic.line-height.typography.heading.06}",
+            "fontSize": "{semantic.font-size.typography.heading.06}",
+            "letterSpacing": "{semantic.letter-spacing.typography.heading.06}",
+            "textDecoration": "{core.text-decoration.none}"
+          },
+          "type": "typography",
+          "description": "Productive"
+        },
+        "05": {
+          "value": {
+            "fontFamily": "{semantic.font-family.typography.sans-serif}",
+            "fontWeight": "{semantic.font-weight.typography.bold}",
+            "lineHeight": "{semantic.line-height.typography.heading.05}",
+            "fontSize": "{semantic.font-size.typography.heading.05}",
+            "letterSpacing": "{semantic.letter-spacing.typography.heading.05}",
+            "textDecoration": "{core.text-decoration.none}"
+          },
+          "type": "typography",
+          "description": "Productive"
+        },
+        "04": {
+          "value": {
+            "fontFamily": "{semantic.font-family.typography.sans-serif}",
+            "fontWeight": "{semantic.font-weight.typography.bold}",
+            "lineHeight": "{semantic.line-height.typography.heading.04}",
+            "fontSize": "{semantic.font-size.typography.heading.04}",
+            "letterSpacing": "{semantic.letter-spacing.typography.heading.04}",
+            "textDecoration": "{core.text-decoration.none}"
+          },
+          "type": "typography",
+          "description": "Productive"
+        },
+        "03": {
+          "value": {
+            "fontFamily": "{semantic.font-family.typography.sans-serif}",
+            "fontWeight": "{semantic.font-weight.typography.bold}",
+            "lineHeight": "{semantic.line-height.typography.heading.03}",
+            "fontSize": "{semantic.font-size.typography.heading.03}",
+            "letterSpacing": "{semantic.letter-spacing.typography.heading.03}",
+            "textDecoration": "{core.text-decoration.none}"
+          },
+          "type": "typography",
+          "description": "Productive"
+        },
+        "02": {
+          "value": {
+            "fontFamily": "{semantic.font-family.typography.sans-serif}",
+            "fontWeight": "{semantic.font-weight.typography.bold}",
+            "lineHeight": "{semantic.line-height.typography.heading.02}",
+            "fontSize": "{semantic.font-size.typography.heading.02}",
+            "letterSpacing": "{semantic.letter-spacing.typography.heading.02}",
+            "textDecoration": "{core.text-decoration.none}"
+          },
+          "type": "typography",
+          "description": "Productive"
+        }
+      },
+      "code": {
+        "01": {
+          "value": {
+            "fontFamily": "{semantic.font-family.typography.mono}",
+            "fontWeight": "{semantic.font-weight.typography.regular}",
+            "lineHeight": "{semantic.line-height.typography.code.01}",
+            "fontSize": "{semantic.font-size.typography.code.01}",
+            "letterSpacing": "{semantic.letter-spacing.typography.code.01}",
+            "textDecoration": "{core.text-decoration.none}"
+          },
+          "type": "typography"
+        },
+        "02": {
+          "value": {
+            "fontFamily": "{semantic.font-family.typography.mono}",
+            "fontWeight": "{semantic.font-weight.typography.regular}",
+            "lineHeight": "{semantic.line-height.typography.code.02}",
+            "fontSize": "{semantic.font-size.typography.code.02}",
+            "letterSpacing": "{semantic.letter-spacing.typography.code.02}",
+            "textDecoration": "{core.text-decoration.none}"
+          },
+          "type": "typography"
         }
       }
     }
