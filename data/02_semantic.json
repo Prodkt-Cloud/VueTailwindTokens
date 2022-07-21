@@ -1043,6 +1043,46 @@
             "value": "{core.letter-spacing.02}",
             "type": "letterSpacing"
           }
+        },
+        "code": {
+          "01": {
+            "value": "{core.letter-spacing.03}",
+            "type": "letterSpacing"
+          },
+          "02": {
+            "value": "{core.letter-spacing.03}",
+            "type": "letterSpacing"
+          }
+        },
+        "label": {
+          "01": {
+            "value": "{core.letter-spacing.03}",
+            "type": "letterSpacing"
+          },
+          "02": {
+            "value": "{core.letter-spacing.02}",
+            "type": "letterSpacing"
+          }
+        },
+        "helper": {
+          "01": {
+            "value": "{core.letter-spacing.03}",
+            "type": "letterSpacing"
+          },
+          "02": {
+            "value": "{core.letter-spacing.02}",
+            "type": "letterSpacing"
+          }
+        },
+        "legal": {
+          "01": {
+            "value": "{core.letter-spacing.03}",
+            "type": "letterSpacing"
+          },
+          "02": {
+            "value": "{core.letter-spacing.02}",
+            "type": "letterSpacing"
+          }
         }
       }
     }
