@@ -1031,8 +1031,16 @@
             "value": "{core.letter-spacing.01}",
             "type": "letterSpacing"
           },
-          "04-copy": {
+          "03": {
             "value": "{core.letter-spacing.01}",
+            "type": "letterSpacing"
+          },
+          "02": {
+            "value": "{core.letter-spacing.01}",
+            "type": "letterSpacing"
+          },
+          "01": {
+            "value": "{core.letter-spacing.02}",
             "type": "letterSpacing"
           }
         }
