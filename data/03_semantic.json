@@ -1124,87 +1124,87 @@
       "ui": {
         "xxs": {
           "space-between": {
-            "value": "{space.50}",
+            "value": "{core.spacing.02}",
             "type": "spacing"
           },
           "space-around": {
-            "value": "{space.50}",
+            "value": "{core.spacing.02}",
             "type": "spacing"
           }
         },
         "xs": {
           "space-between": {
-            "value": "{space.100}",
+            "value": "{core.spacing.03}",
             "type": "spacing"
           },
           "space-around": {
-            "value": "{space.75}",
+            "value": "{core.spacing.03}",
             "type": "spacing"
           }
         },
         "s": {
           "space-between": {
-            "value": "{space.200}",
+            "value": "{core.spacing.04}",
             "type": "spacing"
           },
           "space-around": {
-            "value": "{space.100}",
+            "value": "{core.spacing.04}",
             "type": "spacing"
           }
         },
         "m": {
           "space-between": {
-            "value": "{space.300}",
+            "value": "{core.spacing.05}",
             "type": "spacing"
           },
           "space-around": {
-            "value": "{space.150}",
+            "value": "{core.spacing.05}",
             "type": "spacing"
           }
         },
         "l": {
           "space-between": {
-            "value": "{space.400}",
+            "value": "{core.spacing.06}",
             "type": "spacing"
           },
           "space-around": {
-            "value": "{space.200}",
+            "value": "{core.spacing.06}",
             "type": "spacing"
           }
         },
         "xl": {
           "space-between": {
-            "value": "{space.800}",
+            "value": "{core.spacing.07}",
             "type": "spacing"
           },
           "space-around": {
-            "value": "{space.300}",
+            "value": "{core.spacing.07}",
             "type": "spacing"
           }
         },
         "xxl": {
           "space-between": {
-            "value": "{space.1200}",
+            "value": "{core.spacing.08}",
             "type": "spacing"
           },
           "space-around": {
-            "value": "{space.400}",
+            "value": "{core.spacing.08}",
             "type": "spacing"
           }
         },
         "xxxl": {
           "space-between": {
-            "value": "{space.2000}",
+            "value": "{core.spacing.09}",
             "type": "spacing"
           },
           "space-around": {
-            "value": "{space.800}",
+            "value": "{core.spacing.09}",
             "type": "spacing"
           }
         },
         "xxxxl": {
           "space-around": {
-            "value": "{space.1200}",
+            "value": "{core.spacing.09}",
             "type": "spacing"
           }
         }
