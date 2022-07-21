@@ -1,5 +1,23 @@
 {
   "semantic": {
+    "brand": {
+      "base": {
+        "type": "color",
+        "value": "{core.color.blue.600}"
+      },
+      "hover": {
+        "type": "color",
+        "value": "{core.color.blue.700}"
+      },
+      "active": {
+        "type": "color",
+        "value": "{core.color.blue.800}"
+      },
+      "inverse": {
+        "type": "color",
+        "value": "{core.color.blue.400}"
+      }
+    },
     "background": {
       "base": {
         "type": "color",
@@ -34,22 +52,26 @@
         "value": "{brand.primary}"
       }
     },
-    "brand": {
-      "base": {
+    "text-color": {
+      "primary": {
         "type": "color",
-        "value": "{core.color.blue.600}"
+        "value": "{core.color.slate.1800}"
       },
-      "hover": {
+      "secondary": {
         "type": "color",
-        "value": "{core.color.blue.700}"
+        "value": "{core.color.slate.700}"
       },
-      "active": {
+      "placeholder": {
         "type": "color",
-        "value": "{core.color.blue.800}"
+        "value": "{core.color.slate.600}"
+      },
+      "on-color": {
+        "type": "color",
+        "value": "{core.color.slate.100}"
       },
       "inverse": {
         "type": "color",
-        "value": "{core.color.blue.400}"
+        "value": "{core.color.slate.100}"
       }
     },
     "primary": {
@@ -219,9 +241,15 @@
       }
     },
     "input": {
-      "background": {
-        "value": "{semantic.background.base}",
-        "type": "color"
+      "01": {
+        "background": {
+          "value": "{core.color.base-white}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.color.slate.100}",
+          "type": "color"
+        }
       },
       "text-color": {
         "value": "{semantic.color.typography.default}",
@@ -631,7 +659,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{semantic.input.background}"
+            "value": "{semantic.input.01.background}"
           }
         },
         "selected": {
@@ -650,7 +678,7 @@
             },
             "background-color": {
               "type": "color",
-              "value": "{semantic.input.background}"
+              "value": "{semantic.input.01.background}"
             }
           },
           "hover": {
@@ -668,7 +696,7 @@
             },
             "background-color": {
               "type": "color",
-              "value": "{semantic.input.background}"
+              "value": "{semantic.input.01.background}"
             }
           }
         },
@@ -687,7 +715,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{semantic.input.background}"
+            "value": "{semantic.input.01.background}"
           }
         },
         "disabled": {
@@ -741,7 +769,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{semantic.input.background}"
+            "value": "{semantic.input.01.background}"
           },
           "focus-ring": {
             "type": "color",
@@ -1337,15 +1365,15 @@
     "border-width": {
       "actions": {
         "type": "borderWidth",
-        "value": "{core.border-width.1}"
+        "value": "{core.border-width.01}"
       },
       "inputs": {
         "type": "borderWidth",
-        "value": "{core.border-width.1}"
+        "value": "{core.border-width.01}"
       },
       "focus": {
         "type": "borderWidth",
-        "value": "{core.border-width.3}"
+        "value": "{core.border-width.02}"
       },
       "none": {
         "value": "{core.border-width.00}",
@@ -1493,18 +1521,18 @@
         "type": "color",
         "value": "{core.color.slate.1600}"
       }
-    }
-  },
-  "code": {
-    "01": {
-      "value": {
-        "fontFamily": "{core-font.space-grotesk}",
-        "fontWeight": "{font-weight.regular}",
-        "lineHeight": "{line-height.01}",
-        "fontSize": "{font-size.00}",
-        "letterSpacing": "{letter-spacing.03}"
-      },
-      "type": "typography"
+    },
+    "code": {
+      "01": {
+        "value": {
+          "fontFamily": "{core-font.space-grotesk}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{line-height.01}",
+          "fontSize": "{font-size.00}",
+          "letterSpacing": "{letter-spacing.03}"
+        },
+        "type": "typography"
+      }
     }
   }
 }
