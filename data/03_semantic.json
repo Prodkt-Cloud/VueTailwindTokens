@@ -25,19 +25,19 @@
       },
       "hover": {
         "type": "color",
-        "value": "{core.color.slate.500}12"
+        "value": "{core.color.slate.500}{core.alphahex.12}"
       },
       "active": {
         "type": "color",
-        "value": "{core.color.slate.500}32"
+        "value": "{core.color.slate.500}{core.alphahex.32}"
       },
       "selected": {
         "type": "color",
-        "value": "{core.color.slate.500}20"
+        "value": "{core.color.slate.500}{core.alphahex.20}"
       },
       "selected-hover": {
         "type": "color",
-        "value": "{core.color.slate.500}32"
+        "value": "{core.color.slate.500}{core.alphahex.32}"
       },
       "inverse": {
         "type": "color",
@@ -87,7 +87,7 @@
       },
       "disabled": {
         "type": "color",
-        "value": "{core.color.slate.2000}{core.hexal.25}"
+        "value": "{core.color.slate.2000}{core.alphahex.25}"
       }
     },
     "icon": {
@@ -112,7 +112,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{core.color.slate.2000}{core.hexal.25}",
+        "value": "{core.color.slate.2000}{core.alphahex.25}",
         "type": "color"
       }
     },
@@ -1152,14 +1152,6 @@
       "feedback": {
         "type": "borderRadius",
         "value": "{semantic.border.radius.medium}"
-      },
-      "ui-card": {
-        "type": "borderRadius",
-        "value": "{core.border-radius.4}"
-      },
-      "ui": {
-        "type": "borderRadius",
-        "value": "{core.border-radius.9}"
       }
     },
     "border-width": {
@@ -1299,7 +1291,7 @@
       },
       "hover": {
         "type": "color",
-        "value": "{core.color.slate.500}{core.hexal.12}"
+        "value": "{core.color.slate.500}{core.alpahex.12}"
       },
       "active": {
         "type": "color",
