@@ -421,6 +421,56 @@
             "type": "fontSizes",
             "value": "{core.font-size.01}"
           }
+        },
+        "label": {
+          "01": {
+            "value": "{core.font-size.00}",
+            "type": "fontSizes"
+          },
+          "02": {
+            "value": "{core.font-size.01}",
+            "type": "fontSizes"
+          }
+        },
+        "helper": {
+          "01": {
+            "value": "{core.font-size.00}",
+            "type": "fontSizes"
+          },
+          "02": {
+            "value": "{core.font-size.01}",
+            "type": "fontSizes"
+          }
+        },
+        "legal": {
+          "01": {
+            "value": "{core.font-size.00}",
+            "type": "fontSizes"
+          },
+          "02": {
+            "value": "{core.font-size.01}",
+            "type": "fontSizes"
+          }
+        },
+        "body": {
+          "01": {
+            "value": "{core.font-size.01}",
+            "type": "fontSizes"
+          },
+          "02": {
+            "value": "{core.font-size.02}",
+            "type": "fontSizes"
+          },
+          "compact": {
+            "01": {
+              "value": "{core.font-size.01}",
+              "type": "fontSizes"
+            },
+            "02": {
+              "value": "{core.font-size.02}",
+              "type": "fontSizes"
+            }
+          }
         }
       }
     },
