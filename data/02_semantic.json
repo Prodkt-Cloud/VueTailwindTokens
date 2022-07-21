@@ -394,6 +394,22 @@
           "05": {
             "type": "fontSizes",
             "value": "{core.font-size.05}"
+          },
+          "04": {
+            "type": "fontSizes",
+            "value": "{core.font-size.04}"
+          },
+          "03": {
+            "type": "fontSizes",
+            "value": "{core.font-size.03}"
+          },
+          "02": {
+            "type": "fontSizes",
+            "value": "{core.font-size.02}"
+          },
+          "01": {
+            "type": "fontSizes",
+            "value": "{core.font-size.01}"
           }
         },
         "code": {
