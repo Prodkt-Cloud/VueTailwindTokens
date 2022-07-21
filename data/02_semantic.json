@@ -1011,6 +1011,32 @@
         "value": "{core.sizing.13}",
         "type": "sizing"
       }
+    },
+    "letter-spacing": {
+      "typography": {
+        "heading": {
+          "07": {
+            "value": "{core.letter-spacing.01}",
+            "type": "letterSpacing"
+          },
+          "06": {
+            "value": "{core.letter-spacing.01}",
+            "type": "letterSpacing"
+          },
+          "05": {
+            "value": "{core.letter-spacing.01}",
+            "type": "letterSpacing"
+          },
+          "04": {
+            "value": "{core.letter-spacing.01}",
+            "type": "letterSpacing"
+          },
+          "04-copy": {
+            "value": "{core.letter-spacing.01}",
+            "type": "letterSpacing"
+          }
+        }
+      }
     }
   }
 }
