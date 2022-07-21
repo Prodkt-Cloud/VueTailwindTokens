@@ -840,6 +840,22 @@
           "06": {
             "type": "lineHeights",
             "value": "{core.line-height.09}"
+          },
+          "05": {
+            "type": "lineHeights",
+            "value": "{core.line-height.08}"
+          },
+          "04": {
+            "type": "lineHeights",
+            "value": "{core.line-height.07}"
+          },
+          "03": {
+            "type": "lineHeights",
+            "value": "{core.line-height.06}"
+          },
+          "02": {
+            "type": "lineHeights",
+            "value": "{core.line-height.05}"
           }
         }
       }
