@@ -21,7 +21,7 @@
       "04_themes/daylight/gray": "disabled",
       "04_themes/nightfall/black": "disabled",
       "04_themes/nightfall/gray": "disabled",
-      "05_brands/moyo-ui": "enabled"
+      "05_brands/moyo-ui": "disabled"
     },
     "$figmaStyleReferences": {}
   }

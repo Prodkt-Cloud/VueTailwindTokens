@@ -48,6 +48,12 @@
           "value": "16",
           "type": "other"
         }
+      },
+      "color": {
+        "base": {
+          "value": "{core.color.slate.2000}",
+          "type": "color"
+        }
       }
     }
   }
