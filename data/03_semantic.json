@@ -612,36 +612,6 @@
             "value": "{core.font-size.05}"
           }
         },
-        "body": {
-          "xs": {
-            "type": "fontSizes",
-            "value": "{core.font-size.2}"
-          },
-          "s": {
-            "type": "fontSizes",
-            "value": "{core.font-size.3}"
-          },
-          "m": {
-            "type": "fontSizes",
-            "value": "{core.font-size.4}"
-          },
-          "l": {
-            "type": "fontSizes",
-            "value": "{core.font-size.5}"
-          },
-          "xl": {
-            "type": "fontSizes",
-            "value": "{core.font-size.6}"
-          },
-          "xxl": {
-            "type": "fontSizes",
-            "value": "{core.font-size.7}"
-          },
-          "xxxl": {
-            "type": "fontSizes",
-            "value": "{core.font-size.8}"
-          }
-        },
         "code": {
           "01": {
             "type": "fontSizes",
@@ -968,10 +938,6 @@
       "status": {
         "value": "{semantic.border.radius.round}",
         "type": "borderRadius"
-      },
-      "feedback": {
-        "type": "borderRadius",
-        "value": "{semantic.border.radius.medium}"
       }
     },
     "border-width": {
@@ -1091,10 +1057,6 @@
             "type": "lineHeights",
             "value": "{core.line-height.09}"
           }
-        },
-        "display": {
-          "type": "lineHeights",
-          "value": "{core.line-height.100}"
         },
         "body": {
           "type": "lineHeights",
