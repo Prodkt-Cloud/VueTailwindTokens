@@ -104,7 +104,7 @@
         },
         "transparent": {
           "0": {
-            "value": "{core.color.slate.1000}B0",
+            "value": "{core.color.zinc.1000}{core.alphahex.01}",
             "type": "color"
           }
         }
@@ -189,6 +189,12 @@
         "2000": {
           "value": "hsla(0, 0%, 5%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.neutral.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "stone": {
@@ -271,6 +277,12 @@
         "2000": {
           "value": "hsla(60, 4%, 5%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.stone.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "rose": {
@@ -353,6 +365,12 @@
         "2000": {
           "value": "hsla(349, 89%, 7%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.rose.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "red": {
@@ -435,6 +453,12 @@
         "2000": {
           "value": "hsla(357, 95%, 8%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.red.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "orange": {
@@ -517,6 +541,12 @@
         "2000": {
           "value": "hsla(26, 100%, 5%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.orange.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "amber": {
@@ -599,6 +629,12 @@
         "2000": {
           "value": "hsla(38, 90%, 4%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.amber.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "yellow": {
@@ -681,6 +717,12 @@
         "2000": {
           "value": "hsla(43, 100%, 4%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.yellow.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "lime": {
@@ -763,6 +805,12 @@
         "2000": {
           "value": "hsla(86, 78%, 4%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.lime.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "green": {
@@ -845,6 +893,12 @@
         "2000": {
           "value": "hsla(135, 60%, 4%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.green.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "emerald": {
@@ -927,6 +981,12 @@
         "2000": {
           "value": "hsla(161, 89%, 4%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.emerald.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "teal": {
@@ -1009,6 +1069,12 @@
         "2000": {
           "value": "hsla(180, 100%, 3%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.teal.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "cyan": {
@@ -1091,6 +1157,12 @@
         "2000": {
           "value": "hsla(189, 100%, 4%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.cyan.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "sky": {
@@ -1173,6 +1245,12 @@
         "2000": {
           "value": "hsla(199, 92%, 5%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.sky.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "slate": {
@@ -1257,8 +1335,10 @@
           "type": "color"
         },
         "transparent": {
-          "value": "hsla(214, 16%, 28%, 0)",
-          "type": "color"
+          "0": {
+            "value": "{core.color.slate.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "blue": {
@@ -1341,6 +1421,12 @@
         "2000": {
           "value": "hsla(217, 100%, 7%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.blue.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "gray": {
@@ -1423,6 +1509,12 @@
         "2000": {
           "value": "hsla(220, 10%, 6%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.gray.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "indigo": {
@@ -1505,6 +1597,12 @@
         "2000": {
           "value": "hsla(239, 83%, 12%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.indigo.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "violet": {
@@ -1587,6 +1685,12 @@
         "2000": {
           "value": "hsla(258, 89%, 11%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.violet.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "purple": {
@@ -1669,6 +1773,12 @@
         "2000": {
           "value": "hsla(270, 92%, 9%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.purple.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "fuchsia": {
@@ -1751,6 +1861,12 @@
         "2000": {
           "value": "hsla(292, 83%, 7%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.fuchsia.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       },
       "pink": {
@@ -1833,6 +1949,12 @@
         "2000": {
           "value": "hsla(330, 78%, 7%, 1.0)",
           "type": "color"
+        },
+        "transparent": {
+          "0": {
+            "value": "{core.color.pink.1000}{core.alphahex.01}",
+            "type": "color"
+          }
         }
       }
     }
