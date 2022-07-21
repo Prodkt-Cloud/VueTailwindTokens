@@ -1057,49 +1057,7 @@
             "type": "lineHeights",
             "value": "{core.line-height.09}"
           }
-        },
-        "body": {
-          "type": "lineHeights",
-          "value": "{core.line-height.2}"
-        },
-        "code": {
-          "type": "lineHeights",
-          "value": "{core.line-height.1}"
-        },
-        "detail": {
-          "type": "lineHeights",
-          "value": "{core.line-height.1}"
         }
-      }
-    },
-    "layer": {
-      "base": {
-        "type": "color",
-        "value": "{core.color.slate.100}"
-      },
-      "hover": {
-        "type": "color",
-        "value": "{core.color.slate.500}{core.alphahex.12}"
-      },
-      "active": {
-        "type": "color",
-        "value": "{core.color.slate.500}32"
-      },
-      "selected": {
-        "type": "color",
-        "value": "{core.color.slate.500}20"
-      },
-      "selected-hover": {
-        "type": "color",
-        "value": "{core.color.slate.500}32"
-      },
-      "inverse": {
-        "type": "color",
-        "value": "{core.color.slate.1500}"
-      },
-      "inverse-hover": {
-        "type": "color",
-        "value": "{core.color.slate.1600}"
       }
     }
   }
