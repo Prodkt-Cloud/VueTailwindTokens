@@ -980,6 +980,16 @@
           "02": {
             "value": "{core.line-height.05}",
             "type": "lineHeights"
+          },
+          "compact": {
+            "01": {
+              "value": "{core.line-height.02}",
+              "type": "lineHeights"
+            },
+            "02": {
+              "value": "{core.line-height.04}",
+              "type": "lineHeights"
+            }
           }
         }
       }
