@@ -254,34 +254,6 @@
         }
       }
     },
-    "component": {
-      "extra-small": {
-        "value": "{semantic.sizing.icon-size.32}",
-        "type": "sizing"
-      },
-      "small": {
-        "value": "{core.sizing.10}",
-        "type": "sizing"
-      },
-      "medium": {
-        "value": "{core.sizing.11}",
-        "type": "sizing"
-      },
-      "large": {
-        "value": "{core.sizing.12}",
-        "type": "sizing"
-      },
-      "extra-large": {
-        "value": "{core.sizing.13}",
-        "type": "sizing"
-      }
-    },
-    "ui": {
-      "border-radius": {
-        "value": "{semantic.border.radius.small}",
-        "type": "borderRadius"
-      }
-    },
     "input": {
       "01": {
         "background": {
@@ -332,11 +304,11 @@
           "value": "{core.color.slate.200}",
           "type": "color"
         },
-        "02": {
+        "01": {
           "value": "{core.color.slate.200}",
           "type": "color"
         },
-        "01": {
+        "02": {
           "value": "{core.color.slate.200}",
           "type": "color"
         },
@@ -1167,11 +1139,11 @@
     "border-radius": {
       "actions": {
         "type": "borderRadius",
-        "value": "{core.border-radius.4}"
+        "value": "{semantic.border.radius.medium}"
       },
       "inputs": {
         "type": "borderRadius",
-        "value": "{core.border-radius.4}"
+        "value": "{semantic.border.radius.medium}"
       },
       "status": {
         "value": "{semantic.border.radius.round}",
@@ -1179,17 +1151,7 @@
       },
       "feedback": {
         "type": "borderRadius",
-        "value": "{core.border-radius.4}"
-      },
-      "navigation": {
-        "default": {
-          "value": "{semantic.border.radius.small}",
-          "type": "borderRadius"
-        },
-        "round": {
-          "value": "{semantic.border.radius.round}",
-          "type": "borderRadius"
-        }
+        "value": "{semantic.border.radius.medium}"
       },
       "ui-card": {
         "type": "borderRadius",
