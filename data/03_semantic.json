@@ -49,7 +49,7 @@
       },
       "brand": {
         "type": "color",
-        "value": "{brand.primary}"
+        "value": "{semantic.brand.base}"
       }
     },
     "text": {
@@ -288,7 +288,7 @@
     },
     "border": {
       "interactive": {
-        "value": "{brand.primary}",
+        "value": "{semantic.brand.base}",
         "type": "color"
       },
       "inverse": {
