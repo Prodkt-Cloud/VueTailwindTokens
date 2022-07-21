@@ -18,9 +18,9 @@
       "01_core/shadow": "enabled",
       "04_themes/base/daylight": "enabled",
       "05_brands/base": "enabled",
-      "01_core/hexal": "enabled",
       "01_core/breakpoints": "enabled",
-      "01_core/z-index": "enabled"
+      "01_core/z-index": "enabled",
+      "01_core/alphahex": "enabled"
     },
     "$figmaStyleReferences": {}
   }

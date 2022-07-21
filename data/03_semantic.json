@@ -52,12 +52,16 @@
         "value": "{brand.primary}"
       }
     },
-    "text-color": {
+    "text": {
       "primary": {
         "type": "color",
         "value": "{core.color.slate.1800}"
       },
       "secondary": {
+        "type": "color",
+        "value": "{semantic.secondary.base}"
+      },
+      "helper": {
         "type": "color",
         "value": "{core.color.slate.700}"
       },
@@ -67,11 +71,23 @@
       },
       "on-color": {
         "type": "color",
-        "value": "{core.color.slate.100}"
+        "value": "{core.color.base-white}"
+      },
+      "on-color-disabled": {
+        "type": "color",
+        "value": "{core.color.slate.500}"
       },
       "inverse": {
         "type": "color",
-        "value": "{core.color.slate.100}"
+        "value": "{core.color.base-white}"
+      },
+      "error": {
+        "type": "color",
+        "value": "{semantic.support.error.base}"
+      },
+      "error-copy": {
+        "type": "color",
+        "value": "{core.color.slate.2000}{core.hexal.25}"
       }
     },
     "primary": {
