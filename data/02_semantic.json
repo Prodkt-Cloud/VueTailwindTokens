@@ -856,6 +856,10 @@
           "02": {
             "type": "lineHeights",
             "value": "{core.line-height.05}"
+          },
+          "01": {
+            "type": "lineHeights",
+            "value": "{core.line-height.03}"
           }
         }
       }
