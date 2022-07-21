@@ -1,22 +1,24 @@
 {
   "core": {
     "color": {
-      "base-white": {
-        "value": "hsl(0, 0%, 100%, 1)",
-        "type": "color"
-      },
-      "base-black": {
-        "value": "hsl(0, 0%, 0%, 1)",
-        "type": "color"
-      },
-      "transparent": {
+      "base": {
         "white": {
-          "value": "rgba(255,255,255,0)",
+          "value": "hsl(0, 0%, 100%, 1)",
           "type": "color"
         },
         "black": {
-          "value": "rgba(0,0,0,0)",
+          "value": "hsl(0, 0%, 0%, 1)",
           "type": "color"
+        },
+        "transparent": {
+          "white": {
+            "value": "rgba(255,255,255,0)",
+            "type": "color"
+          },
+          "black": {
+            "value": "rgba(0,0,0,0)",
+            "type": "color"
+          }
         }
       },
       "zinc": {
@@ -101,8 +103,10 @@
           "type": "color"
         },
         "transparent": {
-          "value": "{core.color.slate.1000}B0",
-          "type": "color"
+          "0": {
+            "value": "{core.color.slate.1000}B0",
+            "type": "color"
+          }
         }
       },
       "neutral": {
