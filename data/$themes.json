@@ -17,9 +17,9 @@
       "01_core/z-index": "enabled",
       "01_core/alphahex": "enabled",
       "02_semantic": "enabled",
-      "03_comp/button": "enabled",
       "04_themes/daylight": "disabled",
-      "04_themes/nightfall": "disabled"
+      "04_themes/nightfall": "disabled",
+      "03_comp/button": "enabled"
     },
     "$figmaStyleReferences": {}
   }
