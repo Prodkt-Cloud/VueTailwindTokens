@@ -1,0 +1,51 @@
+{
+  "name": "moyo-ui-tokens",
+  "version": "0.0.1",
+  "description": "Tooling for Tovuti LMS Design Tokens to be used inside a Vue-Tailwind Application",
+  "main": "index.js",
+  "scripts": {
+    "build-daylight-white": "node index.js tokens.json temp/dark.json base/options,base/sizing,themes/dark,core/shadows base/options,base/sizing",
+    "build-nightfall-black": "node index.js tokens.json temp/light.json base/options,base/sizing,themes/light,core/shadows base/options,base/sizing",
+    "build-folder-test": "node index.js tokens temp/folder-light.json base/options,base/sizing,themes/light,core/shadows base/options,base/sizing",
+    "build-resolve-false-test": "node index.js tokens.json temp/resolve-false.json base/options,base/sizing,themes/dark,core/shadows base/options,base/sizing --resolveReferences=false",
+    "test": "npm run build-typography-test && npm run build-light-test && npm run build-dark-test && npm run build-folder-test && npm run build-resolve-false-test && jest",
+    "build-alphahex": "npx token-transformer src/01_core/alphahex.json dist/01_core/alphahex.json",
+    "build-colors": "npx token-transformer src/01_core/colors.json dist/01_core/colors.json --preserveRawValue=true",
+    "build-test": "npx token-transformer src/01_core/colors.json dist/01_core/colors.json --preserveRawValue=true",
+    "build-transform-dark": "npx token-transformer tokens.json tokens/dark.json global,dark,theme global",
+    "build-transform": "npm run build-transform-light && npm run build-transform-dark",
+    "build-sd": "node new-build-2.js",
+    "build-tw": "postcss ./styles.css -o ./tailwind.css",
+    "build": "npm run build-transform && npm run build-sd && npm run build-tw"
+  },
+  "keywords": [
+    "Tovuti",
+    "Design",
+    "Tokens",
+    "Tokens",
+    "Style-Dictionary",
+    "Token",
+    "Transformer",
+    "Ben",
+    "McAvoy",
+    "Bryan",
+    "Funk"
+  ],
+  "author": "Bryan Funk & Ben McAvoy",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "style-dictionary": "^3.7.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "color2k": "^2.0.0",
+    "expr-eval": "^2.0.2",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "postcss": "^8.4.14",
+    "postcss-cli": "^10.0.0",
+    "tailwindcss": "^3.1.6",
+    "token-transformer": "^0.0.24",
+    "yargs": "^17.4.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "tokenSetsDirPath": "src",
+    "tokenSetsPath": "src/**/*.json",
+    "tokenSetsThemeMetaPath": "./src/$themes.json",
+    "options": {
+      "getReferences": true,
+      "outputReferences": true
+    },
+    "owner": "Prodkt-Cloud",
+    "repo": "VueTailwindTokens"
+  }

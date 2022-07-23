@@ -1,0 +1,12 @@
+{
+  "theme": {
+    "border": {
+      "radius": {
+        "actions": {
+          "value": "{semantic.border.radius.medium}",
+          "type": "borderRadius"
+        }
+      }
+    }
+  }
+}

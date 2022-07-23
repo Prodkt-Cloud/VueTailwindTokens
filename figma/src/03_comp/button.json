@@ -1,0 +1,70 @@
+{
+  "button": {
+    "color": {
+      "primary": {
+        "background": {
+          "value": "{semantic.primary.base}",
+          "type": "color"
+        },
+        "background-hover": {
+          "value": "{semantic.primary.hover}",
+          "type": "color"
+        },
+        "background-active": {
+          "value": "{semantic.primary.active}",
+          "type": "color"
+        }
+      }
+    },
+    "size": {
+      "medium": {
+        "value": "{semantic.sizing.actions.medium}",
+        "type": "sizing"
+      }
+    },
+    "border-width": {
+      "value": "{semantic.border-width.actions}",
+      "type": "borderWidth"
+    },
+    "medium": {
+      "padding-top": {
+        "value": "{semantic.spacing.actions.small.padding-top}",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "{semantic.spacing.actions.small.padding-bottom}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.actions.medium.padding-left}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.actions.medium.padding-right}",
+        "type": "spacing"
+      }
+    },
+    "font-weight": {
+      "value": "{semantic.font-weight.actions}",
+      "type": "fontWeights"
+    },
+    "line-height": {
+      "value": "{semantic.line-height.typography.body.02}",
+      "type": "lineHeights"
+    },
+    "font-size": {
+      "medium": {
+        "value": "{core.font-size.02}",
+        "type": "fontSizes"
+      }
+    },
+    "border-radius": {
+      "value": "{theme.border.radius.actions}",
+      "type": "borderRadius"
+    },
+    "font-family": {
+      "value": "{semantic.font-family.actions}",
+      "type": "fontFamilies"
+    }
+  }
+}
